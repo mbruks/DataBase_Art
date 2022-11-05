@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<catalog>
+    <painters id="4">
+        <id_painters>4</id_painters>
+        <full_name>Salvador Dali</full_name>
+        <genre>Landscape</genre>
+        <birthday>11.05.1904</birthday>
+    </painters>
+    <painters id="5">
+        <id_painters>5</id_painters>
+        <full_name>Sandro Botticelli</full_name>
+        <genre>Portrait</genre>
+        <birthday>17.05.1510</birthday>
+    </painters>
+    <painters id="6">
+        <id_painters>6</id_painters>
+        <full_name>Frida Kahlo de Rivera</full_name>
+        <genre>fffff</genre>
+        <birthday>06.06.1907</birthday>
+    </painters>
+</catalog>

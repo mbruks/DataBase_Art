@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='ASCII'?>
+<painters_table>
+    <painters><id_painters>1</id_painters><full_name>Pablo Picasso</full_name><genre>Portrait</genre><birthday>25.10.1881</birthday></painters><painters><id_painters>2</id_painters><full_name>Leonardo da Vinci</full_name><genre>Portrait</genre><birthday>15.04.1452</birthday></painters><painters><id_painters>3</id_painters><full_name>Mary</full_name><genre>Landscape</genre><birthday>23.02.1750</birthday></painters></painters_table>
